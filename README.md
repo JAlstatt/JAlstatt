@@ -18,11 +18,12 @@ Thank you for taking the time to review my portfolio. Professional Inquiries, as
 
 
 ### My Resume
+<a href="file:\C:\Users\Allyson\OneDrive\Desktop\JOSHUA\Alstatt_Resume_TW_2026.pdf">Resume</a>
 
 
 ## Portfolio Entry 1
 
-insert link here
+<a href="C:\Users\Allyson\OneDrive\Desktop\JOSHUA\PORTFOLIO\lawn mower startup procedure and troubleshooting.pdf">Lawn Mower Service Guide</a>
 
 Context: 
 
