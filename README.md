@@ -1,29 +1,43 @@
-## Hello and welcome to my profile 👋
+# Hello and welcome to my portfolio 👋
 
-I am a jack-of-all-trades with a variety of interests. My professional experience includes industrial air filtration, as well as mitigating explosions caused by combustible dust.
+I am a Mechanical Engineer seeking to pivot my role into a career in Technical Writing. My professional experience includes industrial air filtration, as well as mitigating explosions caused by combustible dust. I am also well-versed in a variety of 2D and 3D CAD systems. During a college Internship, I compiled reference documents used by the Engineering Department and posted them to a company-wide intranet, while creating documentation for the site.
+
 In my personal life, I am a volunteer with the Missouri Dept. of Conservation as well as my local church. I also enjoy fishing, hiking, and writing in my free time.
 
 😄 My Pronouns are He/Him
-
-🛠️ I'm currently working on a technical writing portfolio. 
-Due to the proprietary nature of my past experience with service manuals, this portfolio will include documents from my personal life, as well as from popular fiction.
-
-💬 Ask me about my experience with pneumatic systems design, or my experience with the Missouri Dept. of Conservation
-
+<br> 
 📖 My favorite book is "The Sparrow" by Mary Doria Russell
-
+<br>
 ⚡ Fun fact: In the months leading to hibernation, Black Bears will eat up to 20,000 calories per day. Their diet consists primarily of nuts, roots and berries, as well as fish.
-<!--
-**JAlstatt/JAlstatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Thank you for taking the time to review my portfolio. Professional Inquiries, as well as constructive feedback, are always welcome. Due to the proprietary nature of my work with service manuals, this portfolio will include documents from my personal life as well as from open-source collaborations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### For Business Inquiries
+
+
+### My Resume
+
+
+## Portfolio Entry 1
+
+insert link here
+
+Context: 
+
+Audience:
+
+Skills Demonstrated:
+
+
+
+## Portfolio Entry 2
+
+insert link here
+
+Context: 
+
+Audience:
+
+Skills Demonstrated:
