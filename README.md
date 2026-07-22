@@ -16,14 +16,19 @@ Thank you for taking the time to review my portfolio. Professional Inquiries, as
 
 ### For Business Inquiries
 
+alstatt.joshua@icloud.com
+
+
+[LinkedIn](https://www.linkedin.com/in/joshua-alstatt-77a038134/)
 
 ### My Resume
-<a href="file:\C:\Users\Allyson\OneDrive\Desktop\JOSHUA\Alstatt_Resume_TW_2026.pdf">Resume</a>
+
+[Resume](./Alstatt_Resume_TW_2026.pdf)
 
 
 ## Portfolio Entry 1
 
-<a href="C:\Users\Allyson\OneDrive\Desktop\JOSHUA\PORTFOLIO\lawn mower startup procedure and troubleshooting.pdf">Lawn Mower Service Guide</a>
+[Lawn Mower Service Guide](./lawn%20mower%20startup%20procedure%20and%20troubleshooting.pdf)
 
 Context: 
 
@@ -35,7 +40,7 @@ Skills Demonstrated:
 
 ## Portfolio Entry 2
 
-insert link here
+[Google Routes API in Excel](./Google%20Routes%20API%20in%20Excel.pdf)
 
 Context: 
 
